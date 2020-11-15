@@ -1,0 +1,11 @@
+%Number of new infected cases per day
+% netherlands
+NCases_netherlands=[5 0 8 5 15 44 46 60 77 56 61 121 111 190 155 176 278 292 346 409 534 637 573 545 811 852 1019 1172 1159 1104 884 845 1019 1083 1026];% Reported data from 29-February to 4-April
+
+NCases_belgium=[8 27 59 60 31 39 28 47 85 160 130 197 172 185 243 309 462 558 586 342 526 668 1298 1049 1850 1702 1063 876 1189 1384 1422 1661 1260 1123 1380 1209];% Reported data from 2-Mars to 6-April
+
+% russia
+NCases_russia=[30 21 33 52 54 53 61 71 57 163 182 196 228 270 302 501 440 771 601 582 658 954 1154 1175 1459 1786 1667 2186];% Reported data from 16-Mars to 14-April
+
+NCases_morocco=[1	0	0	1	0	0	0	0	1	3	0	2	10	10	9	7	10	9	23	10	19	28	27	55	50	58	69	77	77	61	37	54	83	128	102];% Reported data from 2-Mars to 5-April
+
